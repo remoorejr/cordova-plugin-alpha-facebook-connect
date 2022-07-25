@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="cordova-plugin-facebook-connect"
-        version="3.2.0">
+        version="3.2.1">
 
     <name>Facebook Connect</name>
 
@@ -30,7 +30,7 @@
 
     <engines>
         <engine name="cordova-android" version=">=9.0.0" />
-        <engine name="cordova-ios" version=">=6.0.0" />
+        <engine name="cordova-ios" version=">=5.1.1" />
     </engines>
 
     <!-- android -->
